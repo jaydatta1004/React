@@ -9,4 +9,14 @@ function App() {
   );
 }
 
-export default App;
+function myfun(){
+  return( 
+  <h1>
+    MyFun
+    </h1>
+  );
+}
+export {App , myfun }
+
+
+
